@@ -21,5 +21,3 @@ client_script 'client.lua'
 -- Specify the server script
 server_script 'server.lua'
 
--- Specify any dependencies for the resource
-dependency 'qb-core' -- Example dependency (replace with actual dependencies)
